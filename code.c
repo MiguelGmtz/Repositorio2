@@ -2,6 +2,7 @@
 
 int main(void)
 {
-    //1231
+    //Imprimir saludo
+    printf("Hola mundo\n");
     return 0;
 }
